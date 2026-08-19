@@ -2,7 +2,7 @@
 
 A small web app for practising multiplication and division facts. Sister project to [List & Lys](https://github.com/richarcher/list) — same stack and conventions.
 
-**Live:** TBD
+**Live:** [https://multiply-and-divide.richarcher.co.za](https://multiply-and-divide.richarcher.co.za)
 
 ---
 
